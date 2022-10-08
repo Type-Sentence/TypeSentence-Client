@@ -37,3 +37,7 @@ next-env.d.ts
 
 # misc
 .env
+
+# replit
+.replit
+replit.nix
